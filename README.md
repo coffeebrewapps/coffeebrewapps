@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Project (2023-04-06)
+
+The `coffeebrew_jekyll_archives` Jekyll plugin has been published on the [site](https://www.coffeebrewapps.com/projects/coffeebrew_jekyll_archives.html)!
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/230266936-358a2a66-1db1-434e-a234-4e3d4a45b858.png)
+
 # New Article (2023-03-30)
 
 A new article is up on the [site](https://www.coffeebrewapps.com/2023/03/30/build-site-from-scratch.html)! Read on to find out the journey and thought process of building the site from scratch.
