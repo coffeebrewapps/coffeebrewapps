@@ -24,7 +24,7 @@ The plugin's documentation is built using the `coffeebrew_jekyll_docs` theme, wh
 
 # New Article (2023-03-30)
 
-A new article is up on the [site](https://www.coffeebrewapps.com/2023/03/30/build-site-from-scratch.html)! Read on to find out the journey and thought process of building the site from scratch.
+A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/03/30/build-site-from-scratch.html)! Read on to find out the journey and thought process of building the site from scratch.
 
 ![thumbnail](https://user-images.githubusercontent.com/127605022/228745385-32741a76-f03a-46f9-a57f-e8b26c1bfed1.png)
 
