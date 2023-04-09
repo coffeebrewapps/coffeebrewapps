@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Project (2023-04-09)
+
+The `coffeebrew_jekyll_paginate` Jekyll plugin has been published on the [site](https://www.coffeebrewapps.com/projects/coffeebrew_jekyll_paginate.html)!
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/230756680-3c9b32d9-f73b-4468-8387-e839bf0d6cae.png)
+
 # Introducing Shots (2023-04-06)
 
 A playful twist on the "Shorts" that are prevalent in social media today, "Shots" are mini writings that do not have a main theme or have not enough content to make up a full proper article. Get your quick shots today on the [site](https://www.coffeebrewapps.com/shots.html)!.
