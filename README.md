@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Article (2023-04-10)
+
+A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/04/10/the-jekyll-rabbit-hole.html)! Read on to find out the journey of jumping through the Jekyll rabbit hole.
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/230909058-22e326d3-c58b-46e7-a014-eed274bcf7d0.png)
+
 # New Project (2023-04-10)
 
 The SG Bank Interest Compare app has been published on the [site](https://www.coffeebrewapps.com/projects/sg_bank_int_compare.html)!
