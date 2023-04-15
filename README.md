@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Project (2023-04-15)
+
+The Singapore Savings Bonds Tracker app has been published on the [site](https://www.coffeebrewapps.com/projects/sg_ssb_tracker.html)!
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/232229487-565f881d-0b3c-4ff7-b0db-408c2e54faeb.png)
+
 # New Article (2023-04-10)
 
 A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/04/10/the-jekyll-rabbit-hole.html)! Read on to find out the journey of jumping through the Jekyll rabbit hole.
