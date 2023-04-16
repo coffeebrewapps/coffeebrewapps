@@ -4,7 +4,7 @@
 
 The Singapore Savings Bonds Tracker app has been published on the [site](https://www.coffeebrewapps.com/projects/sg_ssb_tracker.html)!
 
-![thumbnail](https://user-images.githubusercontent.com/127605022/232229487-565f881d-0b3c-4ff7-b0db-408c2e54faeb.png)
+![thumbnail](https://user-images.githubusercontent.com/127605022/232264356-35d32a32-243e-49fc-8eb6-ce27eaae3f71.png)
 
 # New Article (2023-04-10)
 
