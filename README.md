@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Article (2023-04-17)
+
+A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/04/17/vuetify2-vs-vuetify3.html)! Read on to find out a comparison between Vuetify2 and Vuetify3.
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/232512805-1531cce4-de63-4733-be22-3c6eb77a44c9.png)
+
 # New Project (2023-04-15)
 
 The Singapore Savings Bonds Tracker app has been published on the [site](https://www.coffeebrewapps.com/projects/sg_ssb_tracker.html)!
