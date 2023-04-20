@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Article (2023-04-20)
+
+A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/04/20/sabbatical-one-monthiversary.html)! Read on to find out the one month journey of building Coffee Brew Apps.
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/233287985-f79283d0-a97c-4a21-acbe-f8000797bc3c.png)
+
 # New Article (2023-04-17)
 
 A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/04/17/vuetify2-vs-vuetify3.html)! Read on to find out a comparison between Vuetify2 and Vuetify3.
