@@ -1,5 +1,13 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Project (2023-04-21)
+
+The `coffeebrew_jekyll_mermaid` Jekyll plugin has been published on the [site](https://www.coffeebrewapps.com/projects/coffeebrew_jekyll_mermaid.html)!
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/233577679-ddbd5564-c161-4eef-b67e-b78a819a48cc.png)
+
+There's a companion article on the [site](https://www.coffeebrewapps.com/articles/2023/04/21/mermaid-examples.html) that shows examples of how to use the plugin.
+
 # New Article (2023-04-20)
 
 A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/04/20/sabbatical-one-monthiversary.html)! Read on to find out the one month journey of building Coffee Brew Apps.
