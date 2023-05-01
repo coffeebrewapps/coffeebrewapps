@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# Project Update (2023-05-01)
+
+The Singapore Savings Bonds Tracker app is now available as a desktop app on MacOS (Apple Silicon)! Download it from the [Releases](https://github.com/coffeebrewapps/sg_ssb_tracker/releases) now.
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/235416521-50f628f2-6501-4612-89ed-0b66881d8c4c.png)
+
 # New Articles Series (2023-04-28)
 
 A new articles series "Designing and Building An App From Scratch" is up on the [site](https://www.coffeebrewapps.com/series/app_design.html)! Read on to find out the thought processes and design decisions of building an app from an engineer's perspective.
