@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Articles Series (2023-04-28)
+
+A new articles series "Designing and Building An App From Scratch" is up on the [site](https://www.coffeebrewapps.com/series/app_design.html)! Read on to find out the thought processes and design decisions of building an app from an engineer's perspective.
+
+![thumbnail](https://user-images.githubusercontent.com/127605022/235408778-87c6f3d1-af88-4bbd-8ab3-4d1f7682aaa6.png)
+
 # New Project (2023-04-21)
 
 The `coffeebrew_jekyll_mermaid` Jekyll plugin has been published on the [site](https://www.coffeebrewapps.com/projects/coffeebrew_jekyll_mermaid.html)!
