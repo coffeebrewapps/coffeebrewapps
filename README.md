@@ -1,5 +1,17 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Article (2023-05-16)
+
+A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/05/16/app-design-journal-2.html)! Read on to find out how the Triple Tee App is built with a plugins system and custom data access APIs.
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/6becd402-8c06-4625-8300-be5c89d4374e)
+
+# New Articles Series (2023-05-02)
+
+A new articles series "Triple Tee App Dev Journal" is up on the [site](https://www.coffeebrewapps.com/series/triple_tee_devlog.html)! Follow the series to read about some interesting discoveries or technical challenges of building the Triple Tee App.
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/7d54a247-0873-4b87-a4bb-681b7049d23e)
+
 # Project Update (2023-05-01)
 
 The Singapore Savings Bonds Tracker app is now available as a desktop app on MacOS (Apple Silicon)! Download it from the [Releases](https://github.com/coffeebrewapps/sg_ssb_tracker/releases) now.
