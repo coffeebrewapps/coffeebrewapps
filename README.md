@@ -22,7 +22,7 @@ A new articles series "Triple Tee App Dev Journal" is up on the [site](https://w
 
 The Singapore Savings Bonds Tracker app is now available as a desktop app on MacOS (Apple Silicon)! Download it from the [Releases](https://github.com/coffeebrewapps/sg_ssb_tracker/releases) now.
 
-![thumbnail](https://user-images.githubusercontent.com/127605022/235416521-50f628f2-6501-4612-89ed-0b66881d8c4c.png)
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/6960bb22-9650-4290-893d-be0deb05c37e)
 
 # New Articles Series (2023-04-28)
 
@@ -34,7 +34,7 @@ A new articles series "Designing and Building An App From Scratch" is up on the 
 
 The `coffeebrew_jekyll_mermaid` Jekyll plugin has been published on the [site](https://www.coffeebrewapps.com/projects/coffeebrew_jekyll_mermaid.html)!
 
-![thumbnail](https://user-images.githubusercontent.com/127605022/233577679-ddbd5564-c161-4eef-b67e-b78a819a48cc.png)
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/29a7aab3-8f9f-45d6-a76e-202b62385e4e)
 
 There's a companion article on the [site](https://www.coffeebrewapps.com/articles/2023/04/21/mermaid-examples.html) that shows examples of how to use the plugin.
 
@@ -78,7 +78,7 @@ The `coffeebrew_jekyll_paginate` Jekyll plugin has been published on the [site](
 
 A playful twist on the "Shorts" that are prevalent in social media today, "Shots" are mini writings that do not have a main theme or have not enough content to make up a full proper article. Get your quick shots today on the [site](https://www.coffeebrewapps.com/shots.html)!.
 
-![thumbnail](https://user-images.githubusercontent.com/127605022/230401919-fe4eb4a9-3ed4-456b-b03d-2b684552b6d5.png)
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/6421482a-1e79-4cc9-b848-81d0599ddcae)
 
 # New Project (2023-04-06)
 
