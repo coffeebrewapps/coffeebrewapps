@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Article (2023-07-04)
+
+A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/07/04/app-design-journal-4.html)! Read on to find out what has been brewing in the past month for Triple Tee App.
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/3205025e-ded2-479f-a2d9-e37ab5b170db)
+
 # New Article (2023-06-04)
 
 A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/06/04/app-design-journal-3.html)! Read on to find out how to allow user to configure an Electron app and more.
