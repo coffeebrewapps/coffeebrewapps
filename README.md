@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Release (2023-07-11)
+
+Coffeebrew Vue Components v0.1.0 has been released! Check out the project at the [Releases](https://github.com/coffeebrewapps/coffeebrew_vue_components/releases/tag/v0.1.0).
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/f72600fc-ba17-40c4-aad6-a6a79963bb80)
+
 # New Article (2023-07-04)
 
 A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/07/04/app-design-journal-4.html)! Read on to find out what has been brewing in the past month for Triple Tee App.
