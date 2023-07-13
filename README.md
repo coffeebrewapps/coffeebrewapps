@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Article (2023-07-13)
+
+A new article "Static Site Hosting On S3 (2023 Edition)" is up on the [site](https://www.coffeebrewapps.com/articles/2023/07/13/static-site-hosting-on-s3.html)! Read on to find out what it takes to host a static website on AWS S3 in 2023!
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/a63643c5-7d55-4c38-a116-779000d7677c)
+
 # New Release (2023-07-11)
 
 Coffeebrew Vue Components v0.1.0 has been released! Check out the project at the [Releases](https://github.com/coffeebrewapps/coffeebrew_vue_components/releases/tag/v0.1.0).
