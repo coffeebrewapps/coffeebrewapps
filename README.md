@@ -70,7 +70,7 @@ A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/0
 
 # New Project (2023-04-15)
 
-The Singapore Savings Bonds Tracker app has been published on the [site](https://www.coffeebrewapps.com/projects/sg_ssb_tracker.html)!
+The Singapore Savings Bonds Tracker app has been published on the [site](https://sgssbtracker.coffeebrewapps.com)!
 
 ![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/577c8d44-1289-42b9-93b8-9644e2f5b1d4)
 
@@ -82,7 +82,7 @@ A new article is up on the [site](https://www.coffeebrewapps.com/articles/2023/0
 
 # New Project (2023-04-10)
 
-The SG Bank Interest Compare app has been published on the [site](https://www.coffeebrewapps.com/projects/sg_bank_int_compare.html)!
+The SG Bank Interest Compare app has been published on the [site](https://sgbankintcompare.coffeebrewapps.com)!
 
 ![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/64a4bd57-ce6a-465f-8cc8-06452a3b87f7)
 
