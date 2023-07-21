@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Project (2023-07-21)
+
+The Tools In One App has been published on the [site](https://www.coffeebrewapps.com/projects/tools_in_one.html)!
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/ba5ccdb7-07f2-416c-8c8a-863558ab8cb0)
+
 # New Article (2023-07-13)
 
 A new article "Static Site Hosting On S3 (2023 Edition)" is up on the [site](https://www.coffeebrewapps.com/articles/2023/07/13/static-site-hosting-on-s3.html)! Read on to find out what it takes to host a static website on AWS S3 in 2023!
