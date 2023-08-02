@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# New Article (2023-08-02)
+
+A new article "How To Learn A New Tech Stack As A Non-Beginner" is up on the [site](https://www.coffeebrewapps.com/articles/2023/08/02/how-to-learn-new-stack)! Read on to learn the tips and tricks of how to learn as a non-beginner.
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/04409bd3-8599-4a25-9a39-23ba253e7af3)
+
 # New Project (2023-07-21)
 
 The Tools In One App has been published on the [site](https://www.coffeebrewapps.com/projects/tools_in_one.html)!
