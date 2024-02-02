@@ -1,5 +1,11 @@
 ![cba_banner](https://user-images.githubusercontent.com/127605022/227838199-c03ddda7-9bd8-46de-99cf-7aa3a3ad6764.png)
 
+# Project Update (2024-02-02)
+
+The Singapore Bank Interests Compare app is now updated with the latest data! Visit [the App](https://sgbankintcompare.coffeebrewapps.com) now to find out how much interests you could earn in the new year!
+
+![thumbnail](https://github.com/coffeebrewapps/coffeebrewapps/assets/127605022/51ffd177-af95-4b37-ad99-63950d1a2de8)
+
 # New Article (2023-08-02)
 
 A new article "How To Learn A New Tech Stack As A Non-Beginner" is up on the [site](https://www.coffeebrewapps.com/articles/2023/08/02/how-to-learn-new-stack)! Read on to learn the tips and tricks of how to learn as a non-beginner.
